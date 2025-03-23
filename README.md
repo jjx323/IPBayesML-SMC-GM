@@ -1,4 +1,4 @@
-# Codes for "Sequential Monte Carlo with Gaussian Mixture Distributions for Infinite-Dimensional Statistical Inverse Problems"
+# Codes for "Sequential Monte Carlo with Gaussian Mixture Approximation for Infinite-Dimensional Statistical Inverse Problems"
 
 ## Overview
 
